@@ -18,10 +18,6 @@ Plays music
 
 Can Open IDE
 
-Get weather detail
-
-Can do a GOOGLE search for You
-
 ## Installation
 
 First clone the repositoy
